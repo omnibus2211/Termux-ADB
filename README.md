@@ -14,7 +14,7 @@ Copy and paste the following command in Termux to install Tools with logs output
 Copy and paste the following command in Termux to silently remove Tools:<br/>
 ```apt update > /dev/null 2>&1 && apt --assume-yes install wget > /dev/null 2>&1 && wget https://github.com/MasterDevX/Termux-ADB/raw/master/RemoveTools.sh -q && bash RemoveTools.sh```<br/>
 - <b>Common uninstallation:</b><br/>
-Copy and paste the following command in Termux to remove Tools with logs output:<br/>
+Copy and paste the following command in Termux to remove Tools with logs output:<brhttps://github.com/omnibus2211/Superuser/commit/3e01e55a033cb6cecaa1092c6fa4d5782d3c37bb/>
 ```apt update && apt install wget && wget https://github.com/MasterDevX/Termux-ADB/raw/master/RemoveTools.sh && bash RemoveTools.sh```<br/>
 ### Credits
 - <a href="https://github.com/MasterDevX">MasterDevX</a> - Scripts development.
